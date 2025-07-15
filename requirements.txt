@@ -1,0 +1,6 @@
+python-telegram-bot==20.3
+gTTS==2.3.2
+langdetect==1.0.9
+pydub==0.25.1
+SpeechRecognition==3.10.0
+sqlite3
